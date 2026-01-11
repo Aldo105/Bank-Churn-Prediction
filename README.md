@@ -41,7 +41,7 @@ The goal of this project is to identify customers with a high probability of lea
 ## 🛠 Tech Stack
 * **Language:** Python
 * **Database:** SQLite3
-* **Data Manipulation:** Pandas, NumPy
+* **Data Manipulation:** Pandas
 * **Machine Learning:** Scikit-Learn (Logistic Regression, StandardScaler)
 * **Statistics:** Statsmodels (VIF Analysis)
 
